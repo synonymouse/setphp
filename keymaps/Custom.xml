@@ -1,0 +1,8 @@
+<keymap version="1" name="Custom" parent="Mac OS X 10.5+">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+</keymap>
