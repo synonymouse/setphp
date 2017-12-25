@@ -5,4 +5,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
 </keymap>
