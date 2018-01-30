@@ -5,5 +5,15 @@
         <option name="hashHost" value="true" />
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="08cce61f-f784-4a2b-8eae-455fe543cd72" name="WPWEB" url="http://188.225.34.235">
+        <fileTransfer host="188.225.34.235" port="22" rootFolder="/var/www/vhosts/cp.webolution.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
   </component>
 </application>
